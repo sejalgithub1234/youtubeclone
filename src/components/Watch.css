@@ -1,0 +1,66 @@
+/* Watch.css */
+
+.watch-page {
+  display: flex;
+  padding: 20px;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+.video-watch {
+  background-color: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  gap: 16px;
+}
+
+.video-watch h2 {
+  margin-top: 16px;
+  font-size: 20px;
+}
+
+.video-watch p {
+  color: #606060;
+  font-size: 14px;
+}
+
+.comments {
+  margin-top: 24px;
+  background-color: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.comments h3 {
+  margin-bottom: 12px;
+}
+
+.comment {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.recommendations {
+  background-color: #fff;
+  padding: 16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.recommendations h3 {
+  margin-bottom: 12px;
+}
+
+.recommendation {
+  margin-bottom: 16px;
+}
+
+.recommendation p {
+  font-size: 14px;
+  margin-top: 8px;
+  color: #333;
+}
